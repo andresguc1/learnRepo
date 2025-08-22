@@ -1,2 +1,5 @@
 # learnRepo
-deep learning about git and github
+
+deep learning about Git and Github
+
+My first contribution to send Github
